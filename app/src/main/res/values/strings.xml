@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="nome">nome</string>
+    <string name="endereco">endereco</string>
+    <string name="telefone">telefone</string>
+    <string name="site">site</string>
+    <string name="name5">Salvar</string>
+    <string name="add">+</string>
+    <string name="name">nome</string>
+    <string name="telefone2">telefone</string>
+    <string name="nota">Enviar Notas</string>
+    <string name="local">Endereco</string>
+    <string name="site2">site</string>
+    <string name="BaixarProvas">Baixar Provas</string>
+    <string name="Materia">Materia</string>
+    <string name="Data">Data</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <!--<string name="name">Daniel</string>-->
+    <!--<string name="name2">Ronaldo</string>-->
+    <!--<string name="name3">Jeferson</string>-->
+    <!--<string name="name4">Felipe</string>-->
+</resources>
